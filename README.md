@@ -117,7 +117,7 @@ This project was made possible through the collaboration between Massachusetts G
 
 For questions or feedback, please reach out at:
 
-- **Email**: [your-email@example.com](mailto\:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [your-github-profile](https://github.com/your-username)
+- **Email**: [mugumya107hillary@gmail.com](mailto\:mugumya107hillary@gmail.com)
+- **LinkedIn**: [Hillary Mugumya](https://www.linkedin.com/in/hillary-mugumya-986992177/))
+- **GitHub**: [Hillary Mugumya](https://github.com/Mugyema)
 
