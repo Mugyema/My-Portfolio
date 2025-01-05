@@ -14,7 +14,7 @@ Hi, I'm Hillary Mugumya, a data scientist and machine learning enthusiast with e
   Developed a machine learning model to predict coronary heart disease with high accuracy.
 - [Hospital Database Dashboard](https://github.com/mugyema/powerbi-hospital-dashboard)  
   Designed an interactive Power BI dashboard using Mass General Hospital data.
-- [Nutritional App Development](https://github.com/mugyema/nutritional-app)  
+- [Nutritional App Development](https://github.com/Mugyema/ZINZI)  
   Built an application integrating nutritional data and personalized meal plans.
 
 Let's connect and collaborate! 🌟
